@@ -2,7 +2,9 @@
 
 Perkenalkan nama saya **Eko Kurniawan**.<br>
 
-Saya seorang **Mobile Developer**.<br>
+Hello, I'm Eko, currently working as a Linux System Administrator. In addition to my expertise in Linux system administration, I also have a strong interest in mobile development, where I build apps using Kotlin and Flutter. I am passionate about crafting smooth user experiences through UI/UX design and always aim for intuitive and visually appealing interfaces.
+
+With a diverse skill set spanning system administration, mobile dev, and UI/UX, I’m keen on exploring how these areas intersect to create innovative solutions. Let’s connect and collaborate!.<br>
 
 
 <p align="left">
